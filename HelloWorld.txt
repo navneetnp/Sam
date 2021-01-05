@@ -4,11 +4,12 @@ class HelloWorld
 	{
 		System.out.print("Hello World");
 
-		//change: to fix bug1
-		//change by team mate to create conflict
+		//change 1: to fix bug1
+		//change 2: by team mate to create conflict
 
-		//change to fix bug1
-		//change to fix bug2
+		//change 3: to fix bug1
+		//change 4: to fix bug2
+		//change 5: in master to create conflict with cr1
 
 	}
 }
