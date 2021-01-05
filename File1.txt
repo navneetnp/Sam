@@ -10,6 +10,7 @@ class HelloWorld
 		//change 3: to fix bug1
 		//change 4: to fix bug2
 		//change 5: in master to create conflict with cr1
+		//change 6: change added to demonstrate the pull command
 
 	}
 }
